@@ -1,0 +1,19 @@
+/* TEAM */
+
+Designer & Developer: Tara BOland
+Site: http://bola0040.site44.com/dsn1543/project-1/assets/wireframes/
+Twitter: @bolandtara
+Location: Ottawa, Canada
+
+
+
+/* THANKS */
+
+Thanks to the awesome people that make the interwebz.
+
+
+/* SITE */
+Last update: 2013/11/15
+Standards: HTML5, CSS3
+Components: Modernizr, Jquery, etc...
+Software: Adobe, Livereload, Sublime Text 2
